@@ -22,8 +22,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=highcontrast"><span>
-<img src="https://github-readme-stats.vercel.app/api?username=developerSik&show_icons=true&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-quokka&layout=compact&theme=highcontrast"><span>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-quokka&show_icons=true&theme=highcontrast">
 <!--
 **dev-quokka/dev-quokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
