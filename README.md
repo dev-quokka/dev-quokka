@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DeveloperSik&fontAlignY=40&fontSize=100&desc=Welcome%20to%20my%20GitHub&descAlignY=65&animation=twinkling" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=dev-quokka&fontAlignY=40&fontSize=100&desc=Welcome%20to%20my%20GitHub&descAlignY=65&animation=twinkling" style="width: 100%;">
 
 ## Profile
 💙 김동찬 <br>
