@@ -5,7 +5,7 @@
 👶🏻 1996.10.10 <br>
 📞 010-4537-8034 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jung9841@gmail.com)](mailto:jung9841@gmail.com) <span><a href="https://www.notion.so/7dd0ce109d654a95aa615e0f6d00ee49"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaehdcks1010@gmail.com)](mailto:rlaehdcks1010@gmail.com) <span><a href="https://www.notion.so/11c24086f1f34e40a6219653b94c38f7"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br>
 
