@@ -1,21 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=dev-quokka&fontAlignY=40&fontSize=100&desc=Welcome%20to%20my%20GitHub&descAlignY=65&animation=twinkling" style="width: 100%;">
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaehdcks1010@gmail.com)](mailto:rlaehdcks1010@gmail.com)
+
+### 🛠 &nbsp;Technical Skills
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</div>
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=highcontrast"><span>
-<img src="https://github-readme-stats.vercel.app/api?username=dev-quokka&show_icons=true&theme=highcontrast">
-<!--
-**dev-quokka/dev-quokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Analytics
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=dev-quokka&show_icons=true&theme=highcontrast&cache_seconds=1800"> <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=highcontrast&cache_seconds=1800">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🧠 Algorithm & Baekjoon
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaehdcks1010)](https://solved.ac/rlaehdcks1010) <br/>
+
+<br>
+
+### 🔗 Links
+<a href="https://velog.io/@cutyquokka/posts"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://iwanttotouchaquokka.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-F36C3D?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="mailto:rlaehdcks1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
