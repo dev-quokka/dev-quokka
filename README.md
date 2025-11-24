@@ -15,11 +15,6 @@
 
 <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=dev-quokka&show_icons=true&theme=highcontrast&cache_seconds=1800"> <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=highcontrast&cache_seconds=1800">
 
-<br>
-
-### 🧠 Algorithm & Baekjoon
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaehdcks1010)](https://solved.ac/rlaehdcks1010) <br/>
 
 <br>
 
