@@ -15,8 +15,14 @@
 
 <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=dev-quokka&show_icons=true&theme=highcontrast&cache_seconds=1800">
 
+<br>
+
+### 🧠 Algorithm
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaehdcks1010)](https://solved.ac/rlaehdcks1010) <br/>
 
 <br>
+
 
 ### 🔗 Links
 <a href="https://velog.io/@cutyquokka/posts"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
