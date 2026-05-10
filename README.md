@@ -26,9 +26,6 @@
 
 ### 🔗 Links
 
-<a href="https://sulfuric-heron-552.notion.site/11c24086f1f34e40a6219653b94c38f7?source=copy_link">
-  <img src="https://img.shields.io/badge/-Notion-F5F5F5?style=flat&logo=notion&logoColor=black"/>
-</a>
 <a href="https://velog.io/@cutyquokka/posts"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://iwanttotouchaquokka.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-F36C3D?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="mailto:rlaehdcks1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
